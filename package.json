@@ -1,0 +1,32 @@
+{
+  "name": "random-traffic-stream",
+  "version": "0.1.0",
+  "description": "Random Web Traffic Stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "ip",
+    "geo",
+    "fields",
+    "generator",
+	"stream",
+	"stream2"
+  ],
+  "author": {
+    "name": "angleman"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "readable-stream": "~1.0.26"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-bump": "0.0.13",
+    "license-md": "~0.3.6",
+    "mocha": "~1.17.1",
+    "should": "~3.1.3"
+  }
+}
